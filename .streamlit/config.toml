@@ -1,5 +1,6 @@
 [server]
 headless = true
+port = 8505
 
 [theme]
 primaryColor = "#d62828"
